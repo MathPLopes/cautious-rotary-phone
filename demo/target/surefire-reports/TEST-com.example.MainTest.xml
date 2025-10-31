@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.MainTest" time="0.068" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.MainTest" time="0.05" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -11,7 +11,7 @@
     <property name="java.vm.specification.version" value="21"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/local/sdkman/candidates/java/21.0.7-ms/lib"/>
-    <property name="sun.java.command" value="/workspaces/cautious-rotary-phone/demo/target/surefire/surefirebooter6745191927610110454.jar /workspaces/cautious-rotary-phone/demo/target/surefire 2025-10-31T13-24-41_079-jvmRun1 surefire3259393497536975214tmp surefire_08171469120529512899tmp"/>
+    <property name="sun.java.command" value="/workspaces/cautious-rotary-phone/demo/target/surefire/surefirebooter13814182424436618561.jar /workspaces/cautious-rotary-phone/demo/target/surefire 2025-10-31T13-38-56_040-jvmRun1 surefire14626880378288955346tmp surefire_015178641272151601970tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/workspaces/cautious-rotary-phone/demo/target/test-classes:/workspaces/cautious-rotary-phone/demo/target/classes:/home/codespace/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/codespace/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -26,7 +26,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/workspaces/cautious-rotary-phone/demo/target/surefire/surefirebooter6745191927610110454.jar"/>
+    <property name="surefire.real.class.path" value="/workspaces/cautious-rotary-phone/demo/target/surefire/surefirebooter13814182424436618561.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.7+6-LTS"/>
     <property name="user.name" value="codespace"/>
@@ -53,7 +53,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="Teste1" classname="com.example.MainTest" time="0.007"/>
+  <testcase name="Teste1" classname="com.example.MainTest" time="0.004"/>
   <testcase name="Teste2" classname="com.example.MainTest" time="0"/>
-  <testcase name="Teste3" classname="com.example.MainTest" time="0.001"/>
+  <testcase name="Teste3" classname="com.example.MainTest" time="0"/>
 </testsuite>
